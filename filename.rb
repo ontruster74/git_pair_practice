@@ -1,4 +1,4 @@
-class Hello
+class Receptionist
  attr_reader :greeting
 
   def initialize(name)
