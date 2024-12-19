@@ -1,8 +1,8 @@
-class Hello
- attr_reader :greeting
+class Greetings
+ attr_reader :salutations
 
   def initialize(name)
-    @greeting = "Hello, #{name}!"
+    @salutations = "Hello, #{name}!"
   end
   
 end
